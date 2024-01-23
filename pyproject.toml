@@ -10,6 +10,8 @@ python = "^3.12"
 uvicorn = "^0.25.0"
 fastapi = "^0.108.0"
 pydantic = "^2.5.3"
+sqlalchemy = "^2.0.25"
+psycopg2-binary = "^2.9.9"
 
 
 [build-system]
